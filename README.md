@@ -21,6 +21,7 @@
 - [x] Make a working win condition and having implemented the cards system.
 - [x] Start building a GUI. Get an understanding of how GUI’s work and scrap together some of the map, without functionality.
 - [x] Implement graphics and build GUI tied to gameplay
+- [x] Thorough glass-box and black-box testing
 
 ## Team
 - **Jackson Camp**, Cornell University
