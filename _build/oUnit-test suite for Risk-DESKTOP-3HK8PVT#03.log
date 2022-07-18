@@ -1,0 +1,27 @@
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:2:Testing [is_border] with Japan's borders is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:8:Testing [card_count] on empty list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:11:Testing [has_pattern] on empty list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:19:Testing [must_trade_in] on large card list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:38:Testing [count_terrs] on non-empty territory list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:43:Testing [allocate_troops] on player /w no territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Start test test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: Test test suite for Risk:49:Testing [to_terr] on singular owned_terr list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#03 I: End test test suite for Risk:49:Testing [to_terr] on singular owned_terr list.

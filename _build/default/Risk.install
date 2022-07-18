@@ -1,0 +1,27 @@
+lib: [
+  "_build/install/default/lib/Risk/META"
+  "_build/install/default/lib/Risk/Risk.a"
+  "_build/install/default/lib/Risk/Risk.cma"
+  "_build/install/default/lib/Risk/Risk.cmxa"
+  "_build/install/default/lib/Risk/authors.ml"
+  "_build/install/default/lib/Risk/authors.mli"
+  "_build/install/default/lib/Risk/dune-package"
+  "_build/install/default/lib/Risk/opam"
+  "_build/install/default/lib/Risk/risk.cmi"
+  "_build/install/default/lib/Risk/risk.cmt"
+  "_build/install/default/lib/Risk/risk.cmti"
+  "_build/install/default/lib/Risk/risk.cmx"
+  "_build/install/default/lib/Risk/risk.ml"
+  "_build/install/default/lib/Risk/risk.mli"
+  "_build/install/default/lib/Risk/risk__.cmi"
+  "_build/install/default/lib/Risk/risk__.cmt"
+  "_build/install/default/lib/Risk/risk__.cmx"
+  "_build/install/default/lib/Risk/risk__.ml"
+  "_build/install/default/lib/Risk/risk__Authors.cmi"
+  "_build/install/default/lib/Risk/risk__Authors.cmt"
+  "_build/install/default/lib/Risk/risk__Authors.cmti"
+  "_build/install/default/lib/Risk/risk__Authors.cmx"
+]
+libexec: [
+  "_build/install/default/lib/Risk/Risk.cmxs"
+]

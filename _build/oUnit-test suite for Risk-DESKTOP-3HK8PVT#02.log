@@ -1,0 +1,30 @@
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:1:Testing [is_border] with Peru's borders 2 is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:6:Testing [says_borders] on Iceland's borders is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:34:Testing [lost] on player w/ territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:39:Testing [continent_bonus] on empty continent list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Start test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: Test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#02 I: End test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.

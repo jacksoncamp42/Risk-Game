@@ -1,0 +1,12 @@
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Start test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Test test suite for Risk:0:Testing [is_border] with Peru's borders is successful.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: End test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Start test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Test test suite for Risk:2:Testing [is_border] with Japan's borders is successful.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: End test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Start test test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Test test suite for Risk:4:Testing [is_territory] on Japan is successful.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: End test test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Start test test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: Test test suite for Risk:6:Testing [says_borders] on Iceland's borders is successful.
+2022-05-14T01:57:11+00:00 dhcp-vl2041-6572.eduroam.cornell.edu#01 I: End test test suite for Risk:6:Testing [says_borders] on Iceland's borders.

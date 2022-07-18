@@ -1,0 +1,28 @@
+(lang dune 2.9)
+(name Risk)
+(library
+ (name Risk)
+ (kind normal)
+ (archives (byte Risk.cma) (native Risk.cmxa))
+ (plugins (byte Risk.cma) (native Risk.cmxs))
+ (native_archives Risk.a)
+ (requires ANSITerminal)
+ (main_module_name Risk)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Risk)
+   (modules
+    ((name Authors)
+     (obj_name risk__Authors)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Risk) (obj_name risk) (visibility public) (impl) (intf)))
+   (alias_module
+    (name Risk__)
+    (obj_name risk__)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

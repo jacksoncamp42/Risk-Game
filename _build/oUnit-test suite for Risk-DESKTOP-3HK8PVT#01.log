@@ -1,0 +1,30 @@
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:0:Testing [is_border] with Peru's borders is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:7:Testing [says_borders] on Iceland's borders is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:33:Testing [lost] on player w/ no territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:33:Testing [lost] on player w/ no territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:33:Testing [lost] on player w/ no territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:42:Testing [allocate_troops] on player is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Start test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: Test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#01 I: End test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories.

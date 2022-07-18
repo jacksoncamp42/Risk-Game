@@ -1,0 +1,24 @@
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:3:Testing [is_border] with Japan's borders 2 is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:10:Testing [card_count] on singular card list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:32:Testing [winner] on player who does have all territories on stage is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:35:Testing show_cards on player w/ no cards.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:35:Testing show_cards on player w/ no cards is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:35:Testing show_cards on player w/ no cards.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Start test test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: Test test suite for Risk:50:Testing [to_terr] on small owned_terr list is successful.
+2022-05-17T20:40:22+00:00 DESKTOP-3HK8PVT#04 I: End test test suite for Risk:50:Testing [to_terr] on small owned_terr list.

@@ -1,0 +1,2 @@
+(** @canonical Risk.Authors *)
+module Authors = Risk__Authors

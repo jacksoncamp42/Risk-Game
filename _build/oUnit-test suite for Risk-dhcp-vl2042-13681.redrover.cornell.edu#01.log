@@ -1,0 +1,15 @@
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Start test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Test test suite for Risk:0:Testing [is_border] with Peru's borders is successful.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: End test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Start test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Test test suite for Risk:2:Testing [is_border] with Japan's borders is successful.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: End test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Start test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Test test suite for Risk:3:Testing [is_border] with Japan's borders 2 is successful.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: End test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Start test test suite for Risk:5:Testing [is_territory] on North Korea.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Test test suite for Risk:5:Testing [is_territory] on North Korea is successful.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: End test test suite for Risk:5:Testing [is_territory] on North Korea.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Start test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: Test test suite for Risk:7:Testing [says_borders] on Iceland's borders is successful.
+2022-03-14T22:33:25+00:00 dhcp-vl2042-13681.redrover.cornell.edu#01 I: End test test suite for Risk:7:Testing [says_borders] on Iceland's borders.

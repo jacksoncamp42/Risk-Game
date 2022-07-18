@@ -1,0 +1,16 @@
+Step 1: 
+Use terminal to navigate to the directory that contains bin, src, test, the
+Makefile, etc.
+Step 2: run opam install ANSITerminal
+Step 3: run opam install bogue and sudo apt install any packages that it requires
+Step 4: update to WSLG by updating WSL2 by running wsl --update in windows terminal and wsl --shutdown
+Step 5: run SDL_VIDEO_X11_VISUALID=
+Step 6:
+Type make play and follow the instructions that appear on screen.
+
+The current implementation allows you two initialize the game with 4 players.
+Once you enter the names, countries will be randomly distributed to you.
+Each of these countries will recieve a random amount of starting troops.
+Then player 1 will go, and will recieve troops that they can place on their
+territories. This is where our interaction with the terminal ends for our
+MS1 progress.

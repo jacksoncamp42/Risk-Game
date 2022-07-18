@@ -1,0 +1,84 @@
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:0:Testing [is_border] with Peru's borders is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:2:Testing [is_border] with Japan's borders is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:3:Testing [is_border] with Japan's borders 2 is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:5:Testing [is_territory] on North Korea.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:5:Testing [is_territory] on North Korea is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:5:Testing [is_territory] on North Korea.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:7:Testing [says_borders] on Iceland's borders is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:9:Testing [card_count] on singular card list is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:18:Testing [must_trade_in] on small card list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:18:Testing [must_trade_in] on small card list is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:18:Testing [must_trade_in] on small card list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:19:Testing [must_trade_in] on large card list is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:34:Testing [lost] on player w/ territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:36:Testing [show_cards] on player w/ several cards is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:38:Testing [count_terrs] on non-empty territory list is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:39:Testing [continent_bonus] on empty continent list is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:42:Testing [allocate_troops] on player is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:43:Testing [allocate_troops] on player /w no territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:50:Testing [to_terr] on small owned_terr list is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Start test test suite for Risk:54:Testing [fortify] on player w/ several territories.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: Test test suite for Risk:54:Testing [fortify] on player w/ several territories is successful.
+2022-05-17T04:48:26+00:00 dhcp-vl2042-23888.redrover.cornell.edu#01 I: End test test suite for Risk:54:Testing [fortify] on player w/ several territories.

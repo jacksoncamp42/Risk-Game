@@ -1,0 +1,431 @@
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Runner: processes
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Chooser: simple
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration suite_name = "test suite for Risk"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration cache_filename = "/Users/jacksoncamp/cs3110/Final_3110/_build/oUnit-$(suite_name).cache"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration run_gc_full_major = "true"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration display = "true"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration results_style_1_X = "false"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration testdata_dir = "none"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration health_check_interval = "1."
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration verbose = "false"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration chooser = "simple"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration output_html_dir = "none"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration processes_kill_period = "5."
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration runner = "processes"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration shards = "2"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration processes_grace_period = "5."
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration log_encoding = "utf-8"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration output_junit_file = "none"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration ci = "false"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Configuration output_file = "/Users/jacksoncamp/cs3110/Final_3110/_build/oUnit-$(suite_name)-$(shard_id).log"
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Using 2 workers maximum.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-7238.eduroam.cornell.edu#01.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-7238.eduroam.cornell.edu#01 started.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Starting worker number dhcp-vl2041-7238.eduroam.cornell.edu#02.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-7238.eduroam.cornell.edu#02 started.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:1:Testing [is_border] with Peru's borders 2, test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:1:Testing [is_border] with Peru's borders 2, test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:1:Testing [is_border] with Peru's borders 2, test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:0:Testing [is_border] with Peru's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:1:Testing [is_border] with Peru's borders 2, test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:1:Testing [is_border] with Peru's borders 2, test suite for Risk:0:Testing [is_border] with Peru's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:2:Testing [is_border] with Japan's borders, test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:2:Testing [is_border] with Japan's borders, test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:1:Testing [is_border] with Peru's borders 2 is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:2:Testing [is_border] with Japan's borders, test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:2:Testing [is_border] with Japan's borders, test suite for Risk:1:Testing [is_border] with Peru's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:2:Testing [is_border] with Japan's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:3:Testing [is_border] with Japan's borders 2, test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:3:Testing [is_border] with Japan's borders 2, test suite for Risk:2:Testing [is_border] with Japan's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:4:Testing [is_territory] on Japan, test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:4:Testing [is_territory] on Japan, test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:3:Testing [is_border] with Japan's borders 2 is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:4:Testing [is_territory] on Japan, test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:4:Testing [is_territory] on Japan, test suite for Risk:3:Testing [is_border] with Japan's borders 2.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:5:Testing [is_territory] on North Korea, test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:5:Testing [is_territory] on North Korea.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:5:Testing [is_territory] on North Korea, test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:4:Testing [is_territory] on Japan is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:5:Testing [is_territory] on North Korea is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:5:Testing [is_territory] on North Korea, test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:5:Testing [is_territory] on North Korea.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:5:Testing [is_territory] on North Korea, test suite for Risk:4:Testing [is_territory] on Japan.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:7:Testing [says_borders] on Iceland's borders, test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:7:Testing [says_borders] on Iceland's borders, test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:7:Testing [says_borders] on Iceland's borders, test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:6:Testing [says_borders] on Iceland's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:7:Testing [says_borders] on Iceland's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:7:Testing [says_borders] on Iceland's borders, test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:7:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:7:Testing [says_borders] on Iceland's borders, test suite for Risk:6:Testing [says_borders] on Iceland's borders.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:9:Testing [card_count] on singular card list, test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:9:Testing [card_count] on singular card list, test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:9:Testing [card_count] on singular card list, test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:8:Testing [card_count] on empty list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:9:Testing [card_count] on singular card list, test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:9:Testing [card_count] on singular card list, test suite for Risk:8:Testing [card_count] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:10:Testing [card_count] on singular card list, test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:10:Testing [card_count] on singular card list, test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:9:Testing [card_count] on singular card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:10:Testing [card_count] on singular card list, test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:10:Testing [card_count] on singular card list, test suite for Risk:9:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:11:Testing [has_pattern] on empty list, test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:10:Testing [card_count] on singular card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:11:Testing [has_pattern] on empty list, test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:11:Testing [has_pattern] on empty list, test suite for Risk:10:Testing [card_count] on singular card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern, test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:11:Testing [has_pattern] on empty list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern, test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern, test suite for Risk:11:Testing [has_pattern] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:13:Testing [has_pattern] on cards w/ pattern, test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:14:Testing [pattern_troops] on empty list, test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:14:Testing [pattern_troops] on empty list, test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:14:Testing [pattern_troops] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:14:Testing [pattern_troops] on empty list, test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:14:Testing [pattern_troops] on empty list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:14:Testing [pattern_troops] on empty list, test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:14:Testing [pattern_troops] on empty list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:14:Testing [pattern_troops] on empty list, test suite for Risk:13:Testing [has_pattern] on cards w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern, test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern, test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern, test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern, test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern, test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:18:Testing [must_trade_in] on small card list, test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:18:Testing [must_trade_in] on small card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:18:Testing [must_trade_in] on small card list, test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:18:Testing [must_trade_in] on small card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:18:Testing [must_trade_in] on small card list, test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:18:Testing [must_trade_in] on small card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:18:Testing [must_trade_in] on small card list, test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:20:Testing [remove_cards] on list w/ every card, test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:20:Testing [remove_cards] on list w/ every card, test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:20:Testing [remove_cards] on list w/ every card.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:20:Testing [remove_cards] on list w/ every card, test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:19:Testing [must_trade_in] on large card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:20:Testing [remove_cards] on list w/ every card, test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:20:Testing [remove_cards] on list w/ every card, test suite for Risk:19:Testing [must_trade_in] on large card list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards, test suite for Risk:20:Testing [remove_cards] on list w/ every card.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:20:Testing [remove_cards] on list w/ every card is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards, test suite for Risk:20:Testing [remove_cards] on list w/ every card.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:20:Testing [remove_cards] on list w/ every card.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards, test suite for Risk:20:Testing [remove_cards] on list w/ every card.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon, test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon, test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon, test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon, test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories, test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories, test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories, test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories, test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories, test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories, test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories, test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:28:Testing [name_list_owned] on small list of owned territories, test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:28:Testing [name_list_owned] on small list of owned territories, test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:28:Testing [name_list_owned] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:28:Testing [name_list_owned] on small list of owned territories, test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories, test suite for Risk:28:Testing [name_list_owned] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories, test suite for Risk:28:Testing [name_list_owned] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:28:Testing [name_list_owned] on small list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories, test suite for Risk:28:Testing [name_list_owned] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:28:Testing [name_list_owned] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories, test suite for Risk:28:Testing [name_list_owned] on small list of owned territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:31:Testing [winner] on player who does not have all territories on stage, test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:31:Testing [winner] on player who does not have all territories on stage, test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:31:Testing [winner] on player who does not have all territories on stage, test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:31:Testing [winner] on player who does not have all territories on stage, test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:33:Testing [lost] on player w/ no territories, test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:33:Testing [lost] on player w/ no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:33:Testing [lost] on player w/ no territories, test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:32:Testing [winner] on player who does have all territories on stage is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:33:Testing [lost] on player w/ no territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:33:Testing [lost] on player w/ no territories, test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:33:Testing [lost] on player w/ no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:33:Testing [lost] on player w/ no territories, test suite for Risk:32:Testing [winner] on player who does have all territories on stage.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:35:Testing show_cards on player w/ no cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:35:Testing show_cards on player w/ no cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:35:Testing show_cards on player w/ no cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:35:Testing show_cards on player w/ no cards is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:35:Testing show_cards on player w/ no cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:35:Testing show_cards on player w/ no cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:35:Testing show_cards on player w/ no cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:36:Testing [show_cards] on player w/ several cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:36:Testing [show_cards] on player w/ several cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:34:Testing [lost] on player w/ territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:36:Testing [show_cards] on player w/ several cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:36:Testing [show_cards] on player w/ several cards, test suite for Risk:34:Testing [lost] on player w/ territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:37:Testing [count_terrs] on empty territory list, test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:37:Testing [count_terrs] on empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:37:Testing [count_terrs] on empty territory list, test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:36:Testing [show_cards] on player w/ several cards is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:37:Testing [count_terrs] on empty territory list, test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:37:Testing [count_terrs] on empty territory list, test suite for Risk:36:Testing [show_cards] on player w/ several cards.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:38:Testing [count_terrs] on non-empty territory list, test suite for Risk:37:Testing [count_terrs] on empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:37:Testing [count_terrs] on empty territory list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:38:Testing [count_terrs] on non-empty territory list, test suite for Risk:37:Testing [count_terrs] on empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:37:Testing [count_terrs] on empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:38:Testing [count_terrs] on non-empty territory list, test suite for Risk:37:Testing [count_terrs] on empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:39:Testing [continent_bonus] on empty continent list, test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:39:Testing [continent_bonus] on empty continent list, test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:38:Testing [count_terrs] on non-empty territory list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:39:Testing [continent_bonus] on empty continent list, test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:39:Testing [continent_bonus] on empty continent list, test suite for Risk:38:Testing [count_terrs] on non-empty territory list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories, test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:39:Testing [continent_bonus] on empty continent list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories, test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories, test suite for Risk:39:Testing [continent_bonus] on empty continent list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe, test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe, test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe, test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe, test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:42:Testing [allocate_troops] on player, test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:42:Testing [allocate_troops] on player, test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:42:Testing [allocate_troops] on player, test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:42:Testing [allocate_troops] on player, test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:43:Testing [allocate_troops] on player /w no territories, test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:43:Testing [allocate_troops] on player /w no territories, test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:42:Testing [allocate_troops] on player is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:43:Testing [allocate_troops] on player /w no territories, test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:43:Testing [allocate_troops] on player /w no territories, test suite for Risk:42:Testing [allocate_troops] on player.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland, test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland, test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:43:Testing [allocate_troops] on player /w no territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland, test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland, test suite for Risk:43:Testing [allocate_troops] on player /w no territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win, test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops, test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops, test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops, test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops, test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops, test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops, test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:48:Testing [to_terr] on empty owned_terr list, test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:48:Testing [to_terr] on empty owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:48:Testing [to_terr] on empty owned_terr list, test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:48:Testing [to_terr] on empty owned_terr list, test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:48:Testing [to_terr] on empty owned_terr list, test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:49:Testing [to_terr] on singular owned_terr list, test suite for Risk:48:Testing [to_terr] on empty owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:48:Testing [to_terr] on empty owned_terr list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:49:Testing [to_terr] on singular owned_terr list, test suite for Risk:48:Testing [to_terr] on empty owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:48:Testing [to_terr] on empty owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:49:Testing [to_terr] on singular owned_terr list, test suite for Risk:48:Testing [to_terr] on empty owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:50:Testing [to_terr] on small owned_terr list, test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:50:Testing [to_terr] on small owned_terr list, test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:49:Testing [to_terr] on singular owned_terr list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:50:Testing [to_terr] on small owned_terr list, test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:50:Testing [to_terr] on small owned_terr list, test suite for Risk:49:Testing [to_terr] on singular owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:50:Testing [to_terr] on small owned_terr list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory, test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory, test suite for Risk:50:Testing [to_terr] on small owned_terr list.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:52:Testing [can_fortify] on player with several connecting territories, test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:52:Testing [can_fortify] on player with several connecting territories, test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:52:Testing [can_fortify] on player with several connecting territories, test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:53:Testing [can_fortify] on player with several connecting territories, test suite for Risk:52:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Start test test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Start test test suite for Risk:54:Testing [fortify] on player w/ several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: Test test suite for Risk:53:Testing [can_fortify] on player with several connecting territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#01 I: End test test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: Test test suite for Risk:54:Testing [fortify] on player w/ several territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Still 2 tests running : test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 2 tests running: test suite for Risk:54:Testing [fortify] on player w/ several territories, test suite for Risk:53:Testing [can_fortify] on player with several connecting territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#02 I: End test test suite for Risk:54:Testing [fortify] on player w/ several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Still 1 tests running : test suite for Risk:54:Testing [fortify] on player w/ several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 1 tests running: test suite for Risk:54:Testing [fortify] on player w/ several territories.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: 0 tests running: .
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-7238.eduroam.cornell.edu#02 has ended.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Worker dhcp-vl2041-7238.eduroam.cornell.edu#01 died unexpectedly.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Used 2 worker during test execution.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Run 29 tests with shard dhcp-vl2041-7238.eduroam.cornell.edu#01.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Run 26 tests with shard dhcp-vl2041-7238.eduroam.cornell.edu#02.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-7238.eduroam.cornell.edu#01, 3 times.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Check health of shard dhcp-vl2041-7238.eduroam.cornell.edu#02, 1 times.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: ==============
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Summary:
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:54:Testing [fortify] on player w/ several territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:53:Testing [can_fortify] on player with several connecting territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:52:Testing [can_fortify] on player with several connecting territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:51:Testing [can_fortify] on player w/ 1 territory is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:50:Testing [to_terr] on small owned_terr list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:49:Testing [to_terr] on singular owned_terr list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:48:Testing [to_terr] on empty owned_terr list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:47:Testing [odds_main] on terrs with 0 and 100 troops is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:45:Testing [battle simulator] on two territories where one is garunteed win is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:46:Testing [odds_main] on terrs with 100 and 0 troops is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:44:Testing [add_troops] on player adding 10 troops to iceland is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:43:Testing [allocate_troops] on player /w no territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:42:Testing [allocate_troops] on player is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:41:Testing [continent_bonus] on continent list /w Europe is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:40:Testing [continent_bonus] on continent list /w Europe w/ player that does not have all needed territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:39:Testing [continent_bonus] on empty continent list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:38:Testing [count_terrs] on non-empty territory list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:37:Testing [count_terrs] on empty territory list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:36:Testing [show_cards] on player w/ several cards is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:34:Testing [lost] on player w/ territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:35:Testing show_cards on player w/ no cards is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:33:Testing [lost] on player w/ no territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:32:Testing [winner] on player who does have all territories on stage is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:31:Testing [winner] on player who does not have all territories on stage is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:30:Testing [list_of_available_borders] on player /w several territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:29:Testing [num_troops_in_terr] on player /w several territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:28:Testing [name_list_owned] on small list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:27:Testing [name_list_owned] on singular list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:26:Testing [terrs_to_string] on small list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:25:Testing [terrs_to_string] on singular list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:23:Testing [to_owned_terr] on singular list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:24:Testing [to_owned_terr] on small list of owned territories is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:21:Testing [remove_cards] on list w/ many troop cards is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:22:Testing [remove_cards] on large list w/ many horses, one cannon is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:20:Testing [remove_cards] on list w/ every card is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:19:Testing [must_trade_in] on large card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:18:Testing [must_trade_in] on small card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:17:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:16:Testing [pattern_troops] on empty w/ pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:15:Testing [pattern_troops] on cards w/ no pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:14:Testing [pattern_troops] on empty list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:13:Testing [has_pattern] on cards w/ pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:12:Testing [has_pattern] on cards w/ no pattern is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:11:Testing [has_pattern] on empty list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:10:Testing [card_count] on singular card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:9:Testing [card_count] on singular card list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:8:Testing [card_count] on empty list is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:7:Testing [says_borders] on Iceland's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:6:Testing [says_borders] on Iceland's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:5:Testing [is_territory] on North Korea is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:4:Testing [is_territory] on Japan is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:3:Testing [is_border] with Japan's borders 2 is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:2:Testing [is_border] with Japan's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:1:Testing [is_border] with Peru's borders 2 is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Test test suite for Risk:0:Testing [is_border] with Peru's borders is successful.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Ran: 55 tests in: 0.14 seconds.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Cases: 55.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Tried: 55.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Errors: 0.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Failures: 0.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Skip: 0.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Todo: 0.
+2022-05-18T15:58:06+00:00 dhcp-vl2041-7238.eduroam.cornell.edu#00 I: Timeout: 0.

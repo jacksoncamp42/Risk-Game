@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal"
+archive(byte) = "Risk.cma"
+archive(native) = "Risk.cmxa"
+plugin(byte) = "Risk.cma"
+plugin(native) = "Risk.cmxs"
