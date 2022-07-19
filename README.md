@@ -12,9 +12,10 @@
 **Built With:** OCaml, Bogue
 
 ## Demo
+<img src="https://user-images.githubusercontent.com/37753577/179604335-dfd2adf8-682d-4133-92c5-2d478c613ac6.png">
+
 ![riskGif](https://user-images.githubusercontent.com/37753577/179602615-f3d322d7-857f-451b-ad5b-64c09c386886.gif)
 
-<img src="https://user-images.githubusercontent.com/37753577/179604335-dfd2adf8-682d-4133-92c5-2d478c613ac6.png">
 
 ## Stand-Ups / Milestones
 - [x] A complete terminal-based four player implementation of risk following the standard rules.
